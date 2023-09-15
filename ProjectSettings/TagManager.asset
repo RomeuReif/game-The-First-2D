@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Diamante
+  - Dino
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - pickUp
+  - player
+  - background
+  - escadas
+  - limbo
+  - Dino
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2451277683
+    locked: 0
+  - name: limbo
+    uniqueID: 3694638385
+    locked: 0
+  - name: Plataforma
+    uniqueID: 3260794359
+    locked: 0
+  - name: pickUp
+    uniqueID: 1841038353
+    locked: 0
+  - name: Escadas
+    uniqueID: 996080261
+    locked: 0
+  - name: Dino
+    uniqueID: 434992615
+    locked: 0
+  - name: Player
+    uniqueID: 3417424829
+    locked: 0
